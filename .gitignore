@@ -72,3 +72,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# File Conflicts
+Project_Fast/Intermediate/CachedAssetRegistry_0.bin
+Project_Fast/Saved/AutoScreenshot.png
+Project_Fast/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Project_Fast/Saved/Logs/Project_Fast.log
+Project_Fast/Saved/SourceControl/UncontrolledChangelists.json
