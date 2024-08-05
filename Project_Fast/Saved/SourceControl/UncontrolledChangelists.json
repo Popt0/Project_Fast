@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/narut/OneDrive/Documents/Unreal Projects/Project_Fast_Repo/Project_Fast/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/narut/OneDrive/Documents/Unreal Projects/Project_Fast_Repo/Project_Fast/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/narut/OneDrive/Documents/Unreal Projects/Project_Fast_Repo/Project_Fast/Content/FirstPerson/Blueprints/BPC_Player_Movement.uasset"
 			]
 		}
 	]
